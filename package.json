@@ -1,0 +1,26 @@
+{
+  "name": "linea-pro",
+  "version": "0.0.1",
+  "description": "LineaProCDV",
+  "cordova": {
+    "id": "linea-pro",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schie/linea-pro.git"
+  },
+  "keywords": [
+    "lineapro",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Dustin Schie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schie/linea-pro/issues"
+  },
+  "homepage": "https://github.com/schie/linea-pro#readme"
+}
